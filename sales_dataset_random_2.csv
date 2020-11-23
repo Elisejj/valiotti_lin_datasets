@@ -1,4 +1,4 @@
-Date,Customer,Country,Product,Business_Line,Sales_Amount,Sales_Amount_Target,Sales_Margin,Sales_Quantity
+date,customer,country,product,business_line,sales_amount,sales_amount_target,sales_margin,sales_quantity
 2011-09-07 00:00:00,Abhi,Brazil,S10_1678,Classic cars,5581,19559,52,21
 2012-11-29 00:00:00,Ravi,India,S16_1683,Vintage cars,10737,21008,29,93
 2007-11-27 00:00:00,Ravi,France,S10_1678,Classic cars,4483,22514,14,86
